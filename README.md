@@ -8,6 +8,10 @@ Please fill out this form: [`forms.gle/G6EKjgQje7m9Prf88`](https://forms.gle/G6E
 
 Please join our Slack workspace: [`fluttermunich.slack.com`](https://fluttermunich.slack.com). Slack lets us share links, files and other material that would be inconvenient to share in real life.
 
+## Intro slides
+
+The slides are available on [Google Docs/Slides](https://docs.google.com/presentation/d/1A5AATckNQOrjMSqQFvnu0fXUllVV-YhJA_7MOcley5c/edit?usp=sharing), in case you want to look up something. You can always just ask me in person, too.
+
 ## GitHub
 
 ### Register your team
