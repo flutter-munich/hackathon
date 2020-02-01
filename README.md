@@ -12,7 +12,7 @@ Please join our Slack workspace: [`fluttermunich.slack.com`](https://fluttermuni
 
 ### Register your team
 
-One member of the team should create a new "issue" here on GitHub. Use the "register team" issue template.
+One member of the team should [create a new "issue" here on GitHub](https://github.com/flutter-munich/hackathon/issues/new/choose). Use the "register team" issue template.
 
 1. Pick a name for your team
 2. List your team members' GitHub accounts
@@ -20,11 +20,11 @@ One member of the team should create a new "issue" here on GitHub. Use the "regi
 
 ### Create shared repository
 
-Create a repository for your team where you can share your code with each other. Commit often so that your team members can check out the code and help you.
+Create a repository for your team where you can share your code with each other. Commit often so that your team members can check out the code and help you. Please do not skip this step or wait with creating the repository until the end of the event.
 
-Please do not skip this step or wait with creating the repository until the end of the event.
+You can use any repository, or even set up a [free organization for your team](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/creating-a-new-organization-from-scratch).
 
-We want that everybody who attends the event can later look up all the different solutions to the challenge.
+We want that everybody who attends the event can later look up and learn from all the different solutions to the challenge.
 
 ## Other resources
 
