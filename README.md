@@ -2,13 +2,21 @@
 
 ## Register
 
-Please fill out this form LINK MISSING. The submitted form will help us create the teams and will be used to pick winners for the giveaway items.
+Please fill out this form: [`forms.gle/G6EKjgQje7m9Prf88`](https://forms.gle/G6EKjgQje7m9Prf88). The submitted form will help us create the teams and will be used to pick winners for the giveaway items.
 
 ## Slack
 
-Please join our Slack workspace. Slack lets us share links, files and other material that would be inconvenient to share in real life. LINK MISSING
+Please join our Slack workspace: [`fluttermunich.slack.com`](https://fluttermunich.slack.com). Slack lets us share links, files and other material that would be inconvenient to share in real life.
 
 ## GitHub
+
+### Register your team
+
+One member of the team should create a new "issue" here on GitHub. Use the "register team" issue template.
+
+1. Pick a name for your team
+2. List your team members' GitHub accounts
+3. Leave a link to your repository
 
 ### Create shared repository
 
@@ -18,10 +26,9 @@ Please do not skip this step or wait with creating the repository until the end 
 
 We want that everybody who attends the event can later look up all the different solutions to the challenge.
 
-### Submit solution
+## Other resources
 
-TODO: create issue template with team member names, repository links, screenshots, and video recording.
-
-## The project
-
-* [Event page on Meetup.com](https://www.meetup.com/Flutter-Munich/events/265246208/)
+* Are you new to Flutter and Dart? See [`flutter.dev/`](https://flutter.dev/) and [`dart.dev/`](https://dart.dev/).
+* Didn't complete your installation beforehand? Why not? 😢[Install Flutter](https://flutter.dev/docs/get-started/install)
+* Do you need open-source packages for your solution? [`pub.dev/`](https://pub.dev/)
+* Want to look up something on the Meetup event page? [Event page on Meetup.com](https://www.meetup.com/Flutter-Munich/events/265246208/)
