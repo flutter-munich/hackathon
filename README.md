@@ -24,6 +24,8 @@ Create a repository for your team where you can share your code with each other.
 
 You can use any repository, or even set up a [free organization for your team](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/creating-a-new-organization-from-scratch).
 
+Use an open-source license. We recommend Apache 2.0.
+
 We want that everybody who attends the event can later look up and learn from all the different solutions to the challenge.
 
 ## Other resources
