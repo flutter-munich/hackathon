@@ -6,7 +6,7 @@ Please fill out this form: [`forms.gle/G6EKjgQje7m9Prf88`](https://forms.gle/G6E
 
 ### Slack
 
-Please join our Slack workspace: [`fluttermunich.slack.com`](https://fluttermunich.slack.com). Slack lets us share links, files and other material that would be inconvenient to share in real life.
+Please join our Slack workspace: [Invite Link](https://join.slack.com/t/flutter-munich/shared_invite/enQtOTM0MTQxNzA4OTM1LTdhNTYyYWU3YTdhZjkyZGY4M2MwNzYzNGUyNzZkZDA4NGQzMWJhMTFkMTBlZWJlNGUwODgzNWFiNTZkOTUyZjE). Slack lets us share links, files and other material that would be inconvenient to share in real life.
 
 ### Intro slides
 
