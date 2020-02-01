@@ -44,10 +44,13 @@ We want that everybody who attends the event can later look up and learn from al
 ### Motivation
 
 > My mom had a stroke last year and since that she is suffering from Aphasia, an issue to recall and say words, numbers, dates, time, etc...
+>
 > Last week I was playing around with the calendar app on her iPhone and she started crying because she could not say when my birthday is.
+>
 > She can point to it in the calendar but just not say it.
 >
 > I would like to make an app for that is generating random numbers, dates, times, and saying it in German, English or Polish (since she is polish). This way, she could repeat after the app how to pronounce the numbers, dates, times, and practice on her own how to read and say numbers.
+>
 > There are some apps for kids that do that, but it is very frustrating for grown ups to use apps that are designed for children since they feel like an imbecile.
 
 ### Minimum requirements
