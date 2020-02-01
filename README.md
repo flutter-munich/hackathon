@@ -28,6 +28,10 @@ Use an open-source license. We recommend Apache 2.0.
 
 We want that everybody who attends the event can later look up and learn from all the different solutions to the challenge.
 
+### Aphasia App
+
+* [Designing for users with Aphasia (blogs.city.ac.uk/inca)](https://cpb-eu-w2.wpmucdn.com/blogs.city.ac.uk/dist/5/1740/files/2018/05/aphasia-tpqt60.pdf)
+
 ## Other resources
 
 * Are you new to Flutter and Dart? See [`flutter.dev/`](https://flutter.dev/) and [`dart.dev/`](https://dart.dev/).
