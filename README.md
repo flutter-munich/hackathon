@@ -1,5 +1,15 @@
 # Aphasia App
 
+## Acknowledgements
+
+I would like to express my gratitude to the host of the event, [iteratec](https://www.iteratec.com/). Special thanks to [Wolfgang Strunk](https://github.com/wstrunk) and [Florian Dufter](https://github.com/theflocco) who where helping me figure out the format for this event, and assisting all of us during the event.
+
+I really appreciate [Natalia Rabel](https://github.com/natalia.rabel) for reaching out to me with her app idea. I hope that you can use the apps we built and wish you and your mother the best.
+
+Of course, this event would not have been so great without the attendees. It's been great to have you at the event and I hope that you had a good time while working with Flutter.
+
+Thank you for the prices: [iteratec](https://www.iteratec.com/), [JetBrains](https://www.jetbrains.com/), and [Freeletics](Freeletics)
+
 ## The challenge
 
 Build an app for people with aphasia.
@@ -66,12 +76,7 @@ Screenshots are coming soon...
 * Repository: [`Agraphie/AphasApp`](https://github.com/Agraphie/AphasApp)
 * The team: [`jayasio`](https://github.com/jayasio), [`Agraphie`](https://github.com/Agraphie), [`Anas0303`](https://github.com/Anas0303), [`Hamzmustermann`](https://github.com/Hamzmustermann)
 
-# Acknowledgements
+### Wolfgang
 
-I would like to express my gratitude to the host of the event, [iteratec](https://www.iteratec.com/). Special thanks to [Wolfgang Strunk](https://github.com/wstrunk) and [Florian Dufter](https://github.com/theflocco) who where helping me figure out the format for this event, and assisting all of us during the event.
-
-I really appreciate [Natalia Rabel](https://github.com/natalia.rabel) for reaching out to me with her app idea. I hope that you can use the apps we built and wish you the best.
-
-Of course, this event would not have been so great without the attendees. It's been great to have you at the event and I hope that you had a good time while working with Flutter.
-
-Thank you for the prices: [iteratec](https://www.iteratec.com/), [JetBrains](https://www.jetbrains.com/), and [Freeletics](Freeletics)
+* Repository: [`wstrunk/fluttabc`](https://github.com/wstrunk/fluttabc/tree/aphasia)
+* [`wstrunk`](https://github.com/wstrunk)
