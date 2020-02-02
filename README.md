@@ -34,8 +34,37 @@ You might add more features if you think it will result in a better application,
 
 # Solutions
 
-COMING SOON...
+Screenshots are coming soon...
 
+### Flutter for life
+
+* Repository: [`janagrill/flutter-coding-challenge`](https://github.com/janagrill/flutter-coding-challenge)
+* The team: [`janagrill`](https://github.com/janagrill), [`rubengrill`](https://github.com/rubengrill), [`janedzumerko`](https://github.com/janedzumerko)
+
+### Pink Flutter Unicorns
+
+* Repository: [`pink-flutter-unicorns/aphasia`](https://github.com/pink-flutter-unicorns/aphasia)
+* The team: [`BendingBender`](https://github.com/BendingBender), [`theflocco`](https://github.com/theflocco), [`grossjonas`](https://github.com/grossjonas), [`alansalihi`](https://github.com/alansalihi)
+
+### Relativ ==
+
+* Repository: [`RaulSebastian/FlutterHackathonAphasia`](https://github.com/RaulSebastian/FlutterHackathonAphasia)
+* The team: [`RaulSebastian`](https://github.com/RaulSebastian), [`Langohr23`](https://github.com/Langohr23), [`ChrisMuc`](https://github.com/ChrisMuc)
+
+### 3amigos
+
+* Repository: [`earyzhe/flutter-hackathon-Aphasia-3amigos`](https://github.com/earyzhe/flutter-hackathon-Aphasia-3amigos)
+* The team: [`earyzhe`](https://github.com/earyzhe), [`bmohsin`](https://github.com/bmohsin), [`lucacorbucci`](https://github.com/lucacorbucci) 
+
+### aphasie_helper
+
+* Repository: [`matthiasSchedel/aphasie_helper`](https://github.com/matthiasSchedel/aphasie_helper)
+* The team: [`natalia.rabel`](https://github.com/natalia.rabel), [`matthias.schedel`](https://github.com/matthias.schedel), [`jeffersondarcy`](https://github.com/jeffersondarcy) 
+
+### AphasApp
+
+* Repository: [`Agraphie/AphasApp`](https://github.com/Agraphie/AphasApp)
+* The team: [`jayasio`](https://github.com/jayasio), [`Agraphie`](https://github.com/Agraphie), [`Anas0303`](https://github.com/Anas0303), [`Hamzmustermann`](https://github.com/Hamzmustermann)
 
 # Acknowledgements
 
