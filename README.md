@@ -46,12 +46,16 @@ You might add more features if you think it will result in a better application,
 
 You can see screenshots and video recordings for every team's solution in the [`./solutions` folder](https://github.com/flutter-munich/hackathon/tree/master/solutions).
 
+***
+
 ### Flutter for life
 
 * Repository: [`janagrill/flutter-coding-challenge`](https://github.com/janagrill/flutter-coding-challenge)
 * The team: [`janagrill`](https://github.com/janagrill), [`rubengrill`](https://github.com/rubengrill), [`janedzumerko`](https://github.com/janedzumerko)
 
 <img src="https://github.com/flutter-munich/hackathon/blob/master/solutions/flutter-for-life/app.gif?raw=true" alt="Recording of the app" height="450"/>
+
+***
 
 ### Pink Flutter Unicorns
 
@@ -60,12 +64,16 @@ You can see screenshots and video recordings for every team's solution in the [`
 
 <img src="https://github.com/flutter-munich/hackathon/blob/master/solutions/pink-flutter-unicorns/app.gif?raw=true" alt="Recording of the app" height="450"/>
 
+***
+
 ### Relativ ==
 
 * Repository: [`RaulSebastian/FlutterHackathonAphasia`](https://github.com/RaulSebastian/FlutterHackathonAphasia)
 * The team: [`RaulSebastian`](https://github.com/RaulSebastian), [`Langohr23`](https://github.com/Langohr23), [`ChrisMuc`](https://github.com/ChrisMuc)
 
 <img src="https://github.com/flutter-munich/hackathon/blob/master/solutions/relativ-egal/app.gif?raw=true" alt="Recording of the app" height="450"/>
+
+***
 
 ### 3amigos
 
@@ -74,6 +82,8 @@ You can see screenshots and video recordings for every team's solution in the [`
 
 <img src="https://github.com/flutter-munich/hackathon/blob/master/solutions/3amigos/app.gif?raw=true" alt="Recording of the app" height="450"/>
 
+***
+
 ### aphasie_helper
 
 * Repository: [`matthiasSchedel/aphasie_helper`](https://github.com/matthiasSchedel/aphasie_helper)
@@ -81,12 +91,16 @@ You can see screenshots and video recordings for every team's solution in the [`
 
 404? Maybe private?
 
+***
+
 ### AphasApp
 
 * Repository: [`Agraphie/AphasApp`](https://github.com/Agraphie/AphasApp)
 * The team: [`jayasio`](https://github.com/jayasio), [`Agraphie`](https://github.com/Agraphie), [`Anas0303`](https://github.com/Anas0303), [`Hamzmustermann`](https://github.com/Hamzmustermann)
 
 <img src="https://github.com/flutter-munich/hackathon/blob/master/solutions/aphas-app/app.gif?raw=true" alt="Recording of the app" height="450"/>
+
+***
 
 ### Wolfgang
 
