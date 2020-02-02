@@ -44,7 +44,7 @@ You might add more features if you think it will result in a better application,
 
 # Solutions
 
-Screenshots are coming soon...
+You can see screenshots and video recordings for every team's solution in the [`./solutions` folder](https://github.com/flutter-munich/hackathon/tree/master/solutions).
 
 ### Flutter for life
 
@@ -78,6 +78,8 @@ Screenshots are coming soon...
 
 * Repository: [`matthiasSchedel/aphasie_helper`](https://github.com/matthiasSchedel/aphasie_helper)
 * The team: [`natalia.rabel`](https://github.com/natalia.rabel), [`matthias.schedel`](https://github.com/matthias.schedel), [`jeffersondarcy`](https://github.com/jeffersondarcy) 
+
+404? Maybe private?
 
 ### AphasApp
 
