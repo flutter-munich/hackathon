@@ -44,39 +44,67 @@ You might add more features if you think it will result in a better application,
 
 # Solutions
 
-Screenshots are coming soon...
+You can see screenshots and video recordings for every team's solution in the [`./solutions` folder](https://github.com/flutter-munich/hackathon/tree/master/solutions). As the apps used text-to-speech, the GIFs might not do the apps justive, so clone the projects and see how they really work.
+
+***
 
 ### Flutter for life
 
 * Repository: [`janagrill/flutter-coding-challenge`](https://github.com/janagrill/flutter-coding-challenge)
 * The team: [`janagrill`](https://github.com/janagrill), [`rubengrill`](https://github.com/rubengrill), [`janedzumerko`](https://github.com/janedzumerko)
 
+<img src="https://github.com/flutter-munich/hackathon/blob/master/solutions/flutter-for-life/app.gif?raw=true" alt="Recording of the app" height="450"/>
+
+***
+
 ### Pink Flutter Unicorns
 
 * Repository: [`pink-flutter-unicorns/aphasia`](https://github.com/pink-flutter-unicorns/aphasia)
 * The team: [`BendingBender`](https://github.com/BendingBender), [`theflocco`](https://github.com/theflocco), [`grossjonas`](https://github.com/grossjonas), [`alansalihi`](https://github.com/alansalihi)
+
+<img src="https://github.com/flutter-munich/hackathon/blob/master/solutions/pink-flutter-unicorns/app.gif?raw=true" alt="Recording of the app" height="450"/>
+
+***
 
 ### Relativ ==
 
 * Repository: [`RaulSebastian/FlutterHackathonAphasia`](https://github.com/RaulSebastian/FlutterHackathonAphasia)
 * The team: [`RaulSebastian`](https://github.com/RaulSebastian), [`Langohr23`](https://github.com/Langohr23), [`ChrisMuc`](https://github.com/ChrisMuc)
 
+<img src="https://github.com/flutter-munich/hackathon/blob/master/solutions/relativ-egal/app.gif?raw=true" alt="Recording of the app" height="450"/>
+
+***
+
 ### 3amigos
 
 * Repository: [`earyzhe/flutter-hackathon-Aphasia-3amigos`](https://github.com/earyzhe/flutter-hackathon-Aphasia-3amigos)
-* The team: [`earyzhe`](https://github.com/earyzhe), [`bmohsin`](https://github.com/bmohsin), [`lucacorbucci`](https://github.com/lucacorbucci) 
+* The team: [`earyzhe`](https://github.com/earyzhe), [`bmohsin`](https://github.com/bmohsin), [`lucacorbucci`](https://github.com/lucacorbucci)
+
+<img src="https://github.com/flutter-munich/hackathon/blob/master/solutions/3amigos/app.gif?raw=true" alt="Recording of the app" height="450"/>
+
+***
 
 ### aphasie_helper
 
 * Repository: [`matthiasSchedel/aphasie_helper`](https://github.com/matthiasSchedel/aphasie_helper)
 * The team: [`natalia.rabel`](https://github.com/natalia.rabel), [`matthias.schedel`](https://github.com/matthias.schedel), [`jeffersondarcy`](https://github.com/jeffersondarcy) 
 
+404? Maybe private?
+
+***
+
 ### AphasApp
 
 * Repository: [`Agraphie/AphasApp`](https://github.com/Agraphie/AphasApp)
 * The team: [`jayasio`](https://github.com/jayasio), [`Agraphie`](https://github.com/Agraphie), [`Anas0303`](https://github.com/Anas0303), [`Hamzmustermann`](https://github.com/Hamzmustermann)
 
+<img src="https://github.com/flutter-munich/hackathon/blob/master/solutions/aphas-app/app.gif?raw=true" alt="Recording of the app" height="450"/>
+
+***
+
 ### Wolfgang
 
 * Repository: [`wstrunk/fluttabc`](https://github.com/wstrunk/fluttabc/tree/aphasia)
 * [`wstrunk`](https://github.com/wstrunk)
+
+<img src="https://github.com/flutter-munich/hackathon/blob/master/solutions/wolfgang/app.gif?raw=true" alt="Recording of the app" height="450"/>
