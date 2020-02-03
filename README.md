@@ -44,7 +44,7 @@ You might add more features if you think it will result in a better application,
 
 # Solutions
 
-You can see screenshots and video recordings for every team's solution in the [`./solutions` folder](https://github.com/flutter-munich/hackathon/tree/master/solutions).
+You can see screenshots and video recordings for every team's solution in the [`./solutions` folder](https://github.com/flutter-munich/hackathon/tree/master/solutions). As the apps used text-to-speech, the GIFs might not do the apps justive, so clone the projects and see how they really work.
 
 ***
 
