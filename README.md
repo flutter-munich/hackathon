@@ -10,6 +10,8 @@ Of course, this event would not have been so great without the attendees. It's b
 
 Thank you for the prices: [iteratec](https://www.iteratec.com/), [JetBrains](https://www.jetbrains.com/), and [Freeletics](Freeletics)
 
+<img src="https://github.com/flutter-munich/hackathon/blob/master/group.jpg?raw=true" alt="Group picture after the app demos" height="400"/>
+
 ## The challenge
 
 Build an app for people with aphasia.
