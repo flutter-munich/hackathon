@@ -48,6 +48,12 @@ You might add more features if you think it will result in a better application,
 
 You can see screenshots and video recordings for every team's solution in the [`./solutions` folder](https://github.com/flutter-munich/hackathon/tree/master/solutions). As the apps used text-to-speech, the GIFs might not do the apps justive, so clone the projects and see how they really work.
 
+## Community solutions submitted online after the event
+
+> Do you want to share your solution with us? Create a pull request! We would like to see more solutions to this issue.
+
+## Solutions from the event
+
 ***
 
 ### Flutter for life
